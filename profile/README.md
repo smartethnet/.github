@@ -28,7 +28,7 @@ Our solutions leverage intelligent algorithms for automatic path selection, smar
 | Project | Description | Platforms | Status |
 |---------|-------------|-----------|--------|
 | [Rustun](https://github.com/smartethnet/rustun) | AI-driven intelligent VPN with automatic path selection and smart routing | Linux, macOS, Windows, Command-Line Only | Beta |
-| [Rustun Desktop](https://github.com/smartethnet/rustun-desktop) | Windows client for RustunVPN | Windows | Wait for you |
+| [Rustun Desktop](https://github.com/smartethnet/rustun-desktop) | Windows client for RustunVPN | Windows | Alpha|
 | [Rustun Apple](https://github.com/smartethnet/rustun-ios) | MacOS & iOS native client for Rustun VPN | MacOS/iOS | 🚧 Active |
 | [Rustun Android](https://github.com/smartethnet/rustun-android) | Android native client for Rustun VPN | Android | 🔨 In Dev |
 
